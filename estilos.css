@@ -15,7 +15,7 @@ a:hover {
 a:active {
     color:brown;
     background-color: blue;
-}*/
+}
 
 a:link, a:visited {
     border: 1px solid;
@@ -38,4 +38,28 @@ input {
 input:focus {
     width: 250px;
     background-color: aquamarine;
+}*/
+
+body {
+    background-color:rgb(255, 235, 205);
+}
+
+h1 {
+    color:Olive ;
+}
+
+h2 {
+    color: #6B8E23;
+}
+
+ul {
+    color: hsl(69, 23%, 40%);
+}
+
+a:link {
+    color: brown;
+}
+
+ol {
+    color: hsl(69, 23%, 40%);;
 }
